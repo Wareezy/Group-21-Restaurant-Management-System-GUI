@@ -7,7 +7,6 @@ import okhttp3.*;
 import za.ac.cput.domain.Order;
 import za.ac.cput.domain.OrderTable;
 import za.ac.cput.factory.OrderFactory;
-import za.ac.cput.factory.OrderTableFactory;
 
 import javax.swing.*;
 import java.awt.*;

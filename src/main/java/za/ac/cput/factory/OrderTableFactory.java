@@ -14,4 +14,3 @@ public class OrderTableFactory {
         return new OrderTable.Builder().orderTableId(orderTableId).numberOfGuest(numberOfGuest).order(order).build();
     }
 }
-
