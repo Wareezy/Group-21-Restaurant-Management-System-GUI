@@ -27,7 +27,7 @@ public class MenuItemMainGUI extends JFrame implements ActionListener {
         btnDelete = new JButton("Delete Menu Item");
         btnBack = new JButton("Back");
 
-        lblHeading = new JLabel("Order Table", SwingConstants.CENTER);
+        lblHeading = new JLabel("Menu Item", SwingConstants.CENTER);
 
         headingFont = new Font("Arial", Font.BOLD, 30);
     }
